@@ -1,5 +1,4 @@
 # Global-Military-expenditure
-# Global Military-Industrial Base Analysis
 
 ## Overview
 
